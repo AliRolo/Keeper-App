@@ -1,6 +1,8 @@
 function Header() {
     return(
-        <h1>Hello Header!</h1>
+        <header>
+            <h1>You Note</h1>
+        </header>
     )
 }
 
