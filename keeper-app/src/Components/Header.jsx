@@ -1,7 +1,10 @@
+import CreateIcon from '@mui/icons-material/Create';
+
 function Header() {
     return(
         <header>
-            <h1>You Note</h1>
+            <h1><CreateIcon />
+            Your Note</h1>
         </header>
     )
 }
